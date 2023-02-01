@@ -1,3 +1,7 @@
+"""
+Created by Job van den Hurk (Scannexus, Maastricht, NL)
+"""
+
 clc
 
 clear
